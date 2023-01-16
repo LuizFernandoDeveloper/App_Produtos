@@ -1,0 +1,25 @@
+.container .sidenav{
+    background-color: #202020;
+    color: white;
+    width: 200px;
+    border-radius: 20px;
+    margin-left: 10px;
+    padding-top: auto;
+    padding-bottom: auto;
+}
+
+.container .sidenav a {
+    color: white;
+}
+.container .sidenav a:hover{
+    background-color: black;
+}
+.icone-styles{
+    margin-right: 10px;
+}
+
+.content{
+    padding: 16px;
+    background-color: white;
+    color: black;
+}
